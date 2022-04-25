@@ -1,1 +1,7 @@
+.idea
 __pycache__
+demo.py
+report
+.pytest_cache
+.vscode
+_book
